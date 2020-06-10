@@ -1,0 +1,23 @@
+
+.cathead {
+    text-align: center;
+    color: green;
+}
+
+.gallery-item {
+    background-color: orange;
+    color: purple;
+    border: solid;
+    padding: 5px;
+    margin: 20px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: row;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
